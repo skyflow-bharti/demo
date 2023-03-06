@@ -1,0 +1,22 @@
+{
+  "name": "demo",
+  "version": "0.1.0",
+  "summary": "A short description of demo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/118584001/demo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "118584001": "bharti.sagar@skyflow.com"
+  },
+  "source": {
+    "git": "https://github.com/118584001/demo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "demo/Classes/**/*"
+}
